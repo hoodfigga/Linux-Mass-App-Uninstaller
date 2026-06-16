@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Mass App Uninstaller
+Comment=Batch uninstall applications easily
+Exec=/mnt/4a3cb72e-3972-4d66-a179-7662dc12ad28/Antigravity/Uninstaller/launch.sh
+Icon=user-trash
+Terminal=false
+Type=Application
+Categories=Utility;System;
